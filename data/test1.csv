@@ -1,0 +1,33 @@
+id,comment_text,no_emotion,anger,disgust,fear,happiness,sadness,surprise
+1,"The kitchen stinks .",0,0,1,0,0,0,0
+2,"I'll throw out the garbage .",1,0,0,0,0,0,0
+3,"So Dick , how about getting some coffee for tonight ?",0,0,0,0,1,0,0
+4,"Coffee ? I don ’ t honestly like that kind of stuff .",0,0,1,0,0,0,0
+5,"Come on , you can at least try a little , besides your cigarette .",1,0,0,0,0,0,0
+6,"What ’ s wrong with that ? Cigarette is the thing I go crazy for .",0,1,0,0,0,0,0
+7,"Not for me , Dick .",1,0,0,0,0,0,0
+8,"Are things still going badly with your houseguest ?",1,0,0,0,0,0,0
+9,"Getting worse . Now he ’ s eating me out of house and home . I ’ Ve tried talking to him but it all goes in one ear and out the other . He makes himself at home , which is fine . But what really gets me is that yesterday he walked into the living room in the raw and I had company over ! That was the last straw .",0,1,0,0,0,0,0
+10,"Leo , I really think you ’ re beating around the bush with this guy . I know he used to be your best friend in college , but I really think it ’ s time to lay down the law .",1,0,0,0,0,0,0
+11,"You ’ re right . Everything is probably going to come to a head tonight . I ’ ll keep you informed .",1,0,0,0,0,0,0
+12,"Would you mind waiting a while ?",1,0,0,0,0,0,0
+13,"Well , how long will it be ?",1,0,0,0,0,0,0
+14,"I'm not sure . But I'll get a table ready as fast as I can .",1,0,0,0,0,0,0
+15,"OK . We'll wait .",0,0,0,0,1,0,0
+16,"Are you going to the annual party ? I can give you a ride if you need one .",1,0,0,0,0,0,0
+17,"Thanks a lot . That's the favor I was going to ask you for .",0,0,0,0,1,0,0
+18,"The pleasure is mine .",0,0,0,0,1,0,0
+19,"Isn ’ t he the best instructor ? I think he ’ s so hot . Wow ! I really feel energized , don ’ t you ?",0,0,0,0,1,0,0
+20,"I swear , I ’ m going to kill you for this .",0,0,1,0,0,0,0
+21,"What ’ s wrong ? Didn ’ t you think it was fun ? !",0,0,0,0,0,0,1
+22,"Oh , yeah ! I had a blast ! I love sweating like a pig with a bunch of pot bellies who all smell bad . Sorry , I ’ m just not into this health kick .",0,0,1,0,0,0,0
+23,"Oh , no , get off it . It wasn ’ t such a killer class . You just have to get into it . Like they say , no pain , no gain .",1,0,0,0,0,0,0
+24,"I am wiped out . Thank you .",1,0,0,0,0,0,0
+25,"Look , next time get yourself some comfy shoes . You ’ re gonna come back again with me , aren ’ t you ?",1,0,0,0,0,0,0
+26,"Never ! But thank you for inviting me .",1,0,0,0,0,0,0
+27,"Come on . You ’ ll feel better after we hit the showers .",1,0,0,0,0,0,0
+28,"Can I take your order now or do you still want to look at the menu ?",1,0,0,0,0,0,0
+29,"Well , I want a fillet steak , medium , but my little girl doesn't care for steak . Could she have something else instead ?",1,0,0,0,0,0,0
+30,"Certainly . How about spaghetti with clams and shrimps .",1,0,0,0,0,0,0
+31,"Sounds delicious . OK . She'll try that .",0,0,0,0,1,0,0
+32,"Can you manage chopsticks ?",1,0,0,0,0,0,0
