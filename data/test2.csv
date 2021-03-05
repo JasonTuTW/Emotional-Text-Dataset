@@ -1,0 +1,33 @@
+id,comment_text,no_emotion,anger,disgust,fear,happiness,sadness,surprise
+1,"Oh my God, he’s lost it. He’s totally lost it.",0,0,0,0,0,1,0
+2,"What?",0,0,0,0,0,0,1
+3,"Okay. It’s Emma.",1,0,0,0,0,0,0
+4,"Emma!  See? I don’t want it.",0,0,0,0,0,1,0
+5,"Take it.",1,0,0,0,0,0,0
+6,"What?",1,0,0,0,0,0,0
+7,"It’s clearly an Emma.",1,0,0,0,0,0,0
+8,"Oh honey, but you love that name.",0,0,0,0,0,1,0
+9,"Yeah, but I love you more.",0,0,0,0,1,0,0
+10,"Besides y’know, nothing goes with Bing.",1,0,0,0,0,0,0
+11,"So I’m screwed.",0,0,0,0,1,0,0
+12,"Oh-oh, I'm a duck! I go, 'Quack, quack!' I’m happy all the time!",0,0,0,0,1,0,0
+13,"Nice try.",0,0,0,0,0,1,0
+14,"You said you loved me! I can't believe this!",0,0,0,0,0,0,1
+15,"No I didn't!",0,0,0,1,0,0,0
+16,"Yes, you did!",0,0,0,0,0,0,1
+17,"No I didn't!",0,0,0,1,0,0,0
+18,"You love me!",0,0,0,0,1,0,0
+19,"No I don't! Stop it! Stop it! Stop it! Stop it!",0,1,0,0,0,0,0
+20,"Wait, wait, wait!",0,0,0,0,1,0,0
+21,"Look, Monica",1,0,0,0,0,0,0
+22,"Look!",0,0,0,0,0,0,1
+23,"This is not going to work.",0,1,0,0,0,0,0
+24,"I bet this will work!",0,0,0,0,1,0,0
+25,"You are so great! I love you!",0,0,0,0,1,0,0
+26,"What?",0,0,0,0,0,0,1
+27,"Nothing! I said, I said 'You're so great' and then I just, I just stopped talking!",0,0,0,1,0,0,0
+28,"Hello Greg?",1,0,0,0,0,0,0
+29,"Hi, this is Monica from the plane?",1,0,0,0,0,0,0
+30,"Y’know what Greg?",0,1,0,0,0,0,0
+31,"We are good, interesting, funny people with",0,1,0,0,0,0,0
+32,"Listen, the number that you gave me 853-5…   That is their old number!",0,1,0,0,0,0,0
