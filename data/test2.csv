@@ -15,19 +15,3 @@ id,comment_text,no_emotion,anger,disgust,fear,happiness,sadness,surprise
 14,"You said you loved me! I can't believe this!",0,0,0,0,0,0,1
 15,"No I didn't!",0,0,0,1,0,0,0
 16,"Yes, you did!",0,0,0,0,0,0,1
-17,"No I didn't!",0,0,0,1,0,0,0
-18,"You love me!",0,0,0,0,1,0,0
-19,"No I don't! Stop it! Stop it! Stop it! Stop it!",0,1,0,0,0,0,0
-20,"Wait, wait, wait!",0,0,0,0,1,0,0
-21,"Look, Monica",1,0,0,0,0,0,0
-22,"Look!",0,0,0,0,0,0,1
-23,"This is not going to work.",0,1,0,0,0,0,0
-24,"I bet this will work!",0,0,0,0,1,0,0
-25,"You are so great! I love you!",0,0,0,0,1,0,0
-26,"What?",0,0,0,0,0,0,1
-27,"Nothing! I said, I said 'You're so great' and then I just, I just stopped talking!",0,0,0,1,0,0,0
-28,"Hello Greg?",1,0,0,0,0,0,0
-29,"Hi, this is Monica from the plane?",1,0,0,0,0,0,0
-30,"Y’know what Greg?",0,1,0,0,0,0,0
-31,"We are good, interesting, funny people with",0,1,0,0,0,0,0
-32,"Listen, the number that you gave me 853-5…   That is their old number!",0,1,0,0,0,0,0
